@@ -6,14 +6,11 @@ Currently a student at **School 42 Warsaw**, turning a childhood dream into real
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,py" alt="Tools" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlekKruh&layout=compact&bg_color=00000000&hide_border=true)
-
 ### Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vim,clion,pycharm" alt="Tools" />
 
 ### ToDo
 <img src="https://skillicons.dev/icons?i=postgres,cs,unreal,unity" alt="Tools" />
-
 
 ## 📚 Projects & Focus
 
