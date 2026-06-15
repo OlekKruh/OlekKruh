@@ -21,7 +21,7 @@ Currently a student at **School 42 Warsaw**, turning a childhood dream into real
   * [FTPushSwap](https://github.com/OlekKruh/FTPushSwap) — Data sorting algorithm using two stacks.
   * [FTCodexion](https://github.com/OlekKruh/FTCodexion) — A modified version of the classic Dining Philosophers problem (multithreading and synchronization).
   * [FTFly-in](https://github.com/OlekKruh/FTFly-in) — Graph traversal algorithms with constraints (simulating drones navigating through city nodes with restricted air corridors).
-  * [FTPythonCore](https://github.com/OlekKruh/FTPythonCore) — *in progress*
+  * [FTPythonCore](https://github.com/OlekKruh/FTPythonCore) — Core Python concepts, including Object-Oriented Programming (OOP) and working with libraries.
 
 * **Graphics & Games:** Console-based rendering, Pygame, and C++ explorations.
   * [pong-raylib](https://github.com/OlekKruh/pong-raylib) — Simple Pong game built to explore C++ and Raylib.
