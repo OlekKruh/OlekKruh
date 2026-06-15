@@ -1,4 +1,4 @@
-# Hi there! I'm OlekKruh
+# Hello there! I'm OlekKruh
 
 Currently a student at **School 42 Warsaw**, turning a childhood dream into reality. I'm on a mission to transition from my background in CNC production to full-time software engineering.
 
