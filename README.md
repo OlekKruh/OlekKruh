@@ -4,13 +4,13 @@ Currently a student at **School 42 Warsaw**, turning a childhood dream into real
 
 ## 🛠 Tech Stack
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,py" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=c,py" alt="Tools" />
 
 ### Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vim,clion,pycharm" alt="Tools" />
 
 ### ToDo
-<img src="https://skillicons.dev/icons?i=postgres,cs,unreal,unity" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=postgres,cpp,cs,unreal,unity" alt="Tools" />
 
 ## 📚 Projects & Focus
 
