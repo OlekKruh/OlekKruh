@@ -3,6 +3,8 @@
 Part of the **3rd cohort at 42 Warsaw**, turning a childhood dream into reality.
 Swapping heavy CNC machines for memory leaks as I transition to full-time software engineering.
 
+<img src="https://www.codewars.com/users/A_Kross/badges/small" />
+
 ## 🛠 Tech Stack
 ### Familiar with languages
 <img src="https://skillicons.dev/icons?i=c,py" alt="Tools" />
